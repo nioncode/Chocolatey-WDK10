@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>windowsdriverkit10</id>
-    <title>Windows Driver Kit 10 (Install)</title>
+    <title>Windows Driver Kit 10</title>
     <version>10.1.10586</version>
     <authors>Microsoft</authors>
     <owners>Nicolas Schneider</owners>
