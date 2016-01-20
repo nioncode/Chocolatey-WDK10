@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>windowsdriverkit10</id>
+    <title>Windows Driver Kit 10 (Install)</title>
+    <version>10.1.10586</version>
+    <authors>Microsoft</authors>
+    <owners>Nicolas Schneider</owners>
+    <summary>This is the WDK Version 10 for use with Visual Studio 2015.</summary>
+    <description>The Windows Driver Kit includes the necessary tools to build and deploy drivers for Windows.</description>
+    <tags>WindowsDriverKit admin wdk wdk10 driver visual studio</tags>
+    <packageSourceUrl>https://github.com/nioncode/Chocolatey-WDK10</packageSourceUrl>
+    <releaseNotes />
+    <projectUrl>https://msdn.microsoft.com/en-us/library/windows/hardware/ff557573(v=vs.85).aspx</projectUrl>
+    <licenseUrl>https://msdn.microsoft.com/en-US/cc300389.aspx</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
