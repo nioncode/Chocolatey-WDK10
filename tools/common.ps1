@@ -1,7 +1,7 @@
 ﻿$packageName = 'WindowsDriverKit10'
 $installerType = 'EXE'
-$url = 'http://download.microsoft.com/download/B/5/8/B58D625D-17D6-47A8-B3D3-668670B6D1EB/wdk/wdksetup.exe'
+$url = 'http://download.microsoft.com/download/1/4/0/140EBDB7-F631-4191-9DC0-31C8ECB8A11F/wdk/wdksetup.exe'
 $silentArgs = '/features + /q /norestart'
 $validExitCodes = @(0)
-$checksum = '5BC33F95FE980BA44256329007C25BFF7397EF27'
+$checksum = '334BDE819DE7300A9DA8CA1DE50947E9E3A70EAD'
 $checksumType = 'sha1'

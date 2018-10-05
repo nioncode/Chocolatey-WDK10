@@ -4,7 +4,7 @@
   <metadata>
     <id>windowsdriverkit10</id>
     <title>Windows Driver Kit 10</title>
-    <version>10.0.17134</version>
+    <version>10.0.17763</version>
     <authors>Microsoft</authors>
     <owners>Nicolas Schneider</owners>
     <summary>This is the WDK Version 10 for use with Visual Studio 2017.</summary>
